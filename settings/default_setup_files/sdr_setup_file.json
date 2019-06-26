@@ -1,0 +1,15 @@
+{
+    "workspace_dir": "set_based_on_model_setup_runs_folder",
+    "results_suffix": "",
+    "dem_path": "set_based_on_project_input",
+    "erosivity_path": "set_based_on_project_input",
+    "erodibility_path": "set_based_on_project_input",
+    "lulc_path": "set_based_on_project_input",
+    "watersheds_path": "set_based_on_project_input",
+    "biophysical_table_path": "set_based_on_project_input",
+    "threshold_flow_accumulation": "1000",
+    "drainage_path": "set_based_on_project_input",
+    "k_param": "2",
+    "ic_0_param": "0.5",
+    "sdr_max": "0.8"
+}

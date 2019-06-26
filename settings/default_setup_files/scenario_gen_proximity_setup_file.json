@@ -1,0 +1,14 @@
+{
+
+  "base_lulc_path": "set_based_on_project_input",
+  "replacment_lucode": "12",
+  "area_to_convert": "45000.0",
+  "convert_nearest_to_edge": true,
+  "convertible_landcover_codes": "1 2 3 4 5 6 7 8 9 10 11",
+  "aoi_path": "set_based_on_project_input",
+  "convert_farthest_from_edge": false,
+  "n_fragmentation_steps": "1",
+  "focal_landcover_codes": "12 14",
+  "workspace_dir": "set_based_on_scenario"
+
+}
